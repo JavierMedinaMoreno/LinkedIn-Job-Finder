@@ -1,0 +1,885 @@
+================================================================================
+JOB #1: CX Business Planning & Analytics Associate
+================================================================================
+Job ID:      4427557481
+Company:     Factorial
+Location:    Barcelona, Catalonia, Spain
+Date Posted: 2 weeks ago
+URL:         https://www.linkedin.com/jobs/view/4427557481/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+Hello! 👋
+At Factorial we're looking for a new
+CX Business Planning & Analytics Associate
+to help us support and scale our
+CX team
+to the next level. We're looking for someone who is genuinely good with numbers. You'll own the analysis of financial movements, forecasting and target setting for Factorial's Customer Experience organisation
+About The Team 👥
+Our Customer Experience team is the voice that guides our users every step of the way, making sure they always get the most out of Factorial. If you’re passionate about people and love turning a challenge into a great experience, you’ll fit right in.
+What You'll Do 📝
+MRR & revenue movements — Track and analyse churn, contraction, expansion and net revenue retention across the CX portfolio. Explain the why behind every movement, not just the delta.
+Planning & target setting — Sit at the centre of the CX planning cycle. Build the models that turn company goals into team-level and individual-level targets that hold up under scrutiny.
+Trend analysis & insights — Find the patterns in historical data that nobody asked about yet, and bring them forward.
+Executive storytelling — Build the slide decks for All Hands and management reviews. Dense with data, clean to look at, obvious what to do next.
+What are we looking for? 🎯
+Non-negotiable:
+Advanced Excel / Google Sheets. Comfortable building a model from scratch, structuring messy data, and working with pivots, index/match, nested logic and scenario analysis without help.
+Numerical reasoning. You can be handed a dataset with no context and independently work out what question it answers.
+Logical, structured thinking. You break ambiguous problems into parts, work through them in order, and can defend your reasoning.
+Clear communication in English. Written and verbal. You can explain a model to someone who has never opened it.
+Strongly valued:
+1+ year in a role where numbers were the core of the job — FP&A, financial analysis, business analytics, RevOps, consulting, audit, banking, pricing, or similar.
+SQL — even at a basic level. You'll learn it here if you don't have it, but arriving with it helps.
+Strong slide-building skills. Executive-ready, data-rich, visually clean.
+Comfort with AI tools (Claude, Gemini) as part of daily workflow.
+Spanish: Minimum B2 level required.
+Perks of being part of Factorial
+😎
+High growth, multicultural and friendly environment 🤝
+Healthy life with Wellhub (Gyms, pools, outdoor classes) 🕺🏻
+Save expenses with Cobee💰
+Language classes 👩🏻‍🏫
+Breakfast in the office and organic fruit 🍏
+Food discounts with Nora 🍱
+Pet Friendly 🐕
+Much more that we'll spill during the interview process
+About Factorial 🚀
+At Factorial, we’re building the leading AI Business Management Software for companies of all sizes.
+Our platform centralizes key workflows across HR, Finance, Talent, Operations, and IT, freeing teams from manual processes so they can focus on what really matters: leading, growing, and taking care of their people.With over 1,500 employees across Europe, Asia, Africa, and America. We are one of Europe’s fastest-growing SaaS companies, proudly headquartered in Barcelona. If you're excited to shape the future of business management technology, we’d love to meet you.
+We believe in diverse talent:
+we welcome applicants from all backgrounds and strongly encourage people of diverse experiences and identities to apply.
+We believe in inclusion:
+we are committed to equal opportunities and actively promote workplace inclusion of people with disabilities. If you would like to learn more about our inclusive recruitment processes, you are welcome to indicate so optionally and we will share additional information with you.
+Our values
+🫀
+We own it: We take responsibility for every project. We make decisions, not excuses.
+We learn and teach: We're dedicated to learning something new every day and, above all, share it.
+We partner: Every decision is a team decision. We trust each other.
+We grow fast: We act fast. We think that the worst mistake is not learning from them.
+Want to learn more about us? Check our website!
+================================================================================
+
+================================================================================
+A JOB #2: Apprentice Data Scientist Finance
+================================================================================
+Job ID:      4448446368
+Company:     dsm-firmenich
+Location:    Greater Barcelona Metropolitan Area
+Date Posted: 2 days ago
+URL:         https://www.linkedin.com/jobs/view/4448446368/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+Location: Barcelona, Spain
+Join us as a Data Science Apprentice for Finance Domain, turning data into insights that support better decisions. You will work with finance and data teams to prepare datasets, build models, automate analysis, visualize trends, create agents while developing hands-on experience in analytics, forecasting, and financial performance reporting.
+Your Key Responsibilities
+Work with Finance stakeholders to understand business questions and translate them into data analysis needs.
+Prepare, clean, reconcile, and validate financial and operational datasets using Excel, SQL, and Python, LLMs.
+Build dashboards, reports, and visualizations to track trends, anomalies, and key finance indicators.
+Support with agentic AI use case ideation and help set up and improve SQL to text agents.
+Investigate data discrepancies and document recurring patterns, root causes, and improvement actions.
+Be force of proposition to help the team automate processes (both from a developer perspective and a finance business stakeholder perspective)
+We offer
+Unique career paths across health, nutrition and beauty, with support to explore what drives you and grow your expertise.
+Hands-on exposure to finance data, analytics, automation, and decision-support projects in a global business environment.
+A chance to impact millions of consumers every day, with sustainability embedded in all we do.
+A science-led company where data, research, and creativity help shape what is next.
+A culture that lifts you up, with collaborative teams, shared wins, and people who cheer each other on.
+A community where your voice matters and your curiosity can help us serve customers better.
+You bring
+Strong interest in finance, data science, analytics, forecasting, and business decision support.
+Good working knowledge of Excel, SQL, and Python. Gen AI/ SQL to Text, LLM ...
+Ability to clean, reconcile, validate, and interpret data with strong attention to accuracy.
+Curiosity and creativity to explore trends, anomalies, and root causes, and turn findings into clear insights.
+Collaborative communication skills to work with Finance, data, and technical stakeholders across locations.
+Fluent English; additional languages are welcome.
+About Dsm-firmenich
+At dsm-firmenich, we don’t just meet expectations – we go beyond them.
+Join our global team powered by science, creativity, and a shared purpose: to bring progress to life.
+From elevating health to making fortified food and sustainable skincare, the impact of your work here will be felt by millions – every single day. Whether it’s fragrance that helps you focus, alternative meat that’s better for the planet, or reducing sugar without losing flavor, this is where you help shape the future of nutrition, health, and beauty for everyone, everywhere.
+And while you’re making a difference, we’ll make sure you’re growing too. With learning that never stops, a culture that lifts you up and the freedom to move across businesses, teams, and borders. Your voice matters here. And your ideas? They’re essential to our future.
+Because real progress only happens when we go beyond, together.
+Interested in this position? Please apply on-line by uploading your resume in English via our career portal (www.dsm-firmenich.com/careers).
+Inclusion, belonging and equal opportunity statement
+At dsm-firmenich, we believe being a force for good starts with the way we treat each other. When people feel supported, included, and free to be themselves, they do their best work – and that’s exactly the kind of culture we’re building. A place where opportunity is truly equal, authenticity is celebrated, and everyone has the chance to grow, contribute, and feel they belong.
+We’re proud to be an equal opportunity employer, and we’re serious about making our hiring process as fair and inclusive as possible. From inclusive language and diverse interview panels to thoughtful sourcing, we’re committed to reflecting the world we serve.
+We welcome candidates from all backgrounds — no matter your gender, ethnicity, sexual orientation, or anything else that makes you, you.
+And if you have a disability or need any support through the application process, we’re here to help – just let us know what you need, and we’ll do everything we can to make it work.
+Agency statement
+We’re managing this search directly at dsm-firmenich. If you’re applying as an individual, we’d love to hear from you. We’re not accepting agency submissions or proposals involving fees or commissions for this role.
+================================================================================
+
+================================================================================
+A JOB #3: Business Analyst Área Comercial
+================================================================================
+Job ID:      4467714034
+Company:     Penguin Random House Grupo Editorial
+Location:    Barcelona, Catalonia, Spain
+Date Posted: 6 days ago
+URL:         https://www.linkedin.com/jobs/view/4467714034/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+En
+Penguin Random House Grupo Editorial
+nos mueve un doble propósito: velar por el futuro de los libros y la lectura. Para conseguir nuestro objetivo, publicamos libros para lectores y lectoras de todas las edades y en diferentes formatos: papel, digital y audio.
+Somos la división en lengua española de la compañía editorial internacional Penguin Random House. Formamos parte del grupo Bertelsmann, multinacional de medios de comunicación, servicios y educación que opera en más 50 países de todo el mundo. Contamos con 61 sellos editoriales, 45 premios Nobel en nuestro catálogo y más de 20.000 autores.
+En el corazón de nuestra actividad diaria como compañía situamos la cultura humana. Valoramos a cada persona empleada como única, y fomentamos un ambiente de trabajo inclusivo y diverso donde todos y todas nos sentimos escuchados, respetados y valorados. Fomentamos la creatividad, la colaboración y el aprendizaje continuo, brindando las herramientas y el apoyo necesario para alcanzar el máximo potencial.
+Descripción del empleo
+El equipo de Planificación Comercial de Penguin Random House Grupo Editorial busca incorporar un/a
+Business Analyst
+capaz de entender las necesidades de los stakeholders de Comercial y de desarrollar e implementar herramientas analíticas.
+Se trata de una excelente oportunidad para una persona curiosa, que quiera poner en práctica y seguir desarrollando sus capacidades analíticas, trabajando con datos para contribuir a que nuestros libros lleguen a los lectores y lectoras de forma más eficaz.🚀
+¿Cuáles serán tus retos?
+Diseñar, desarrollar y mantener modelos de datos ad hoc en Power BI para dar respuesta a necesidades específicas del área Comercial. Para ello, integrarás y transformarás información procedente de distintas fuentes, principalmente SAP y Snowflake, y crearás nuevas métricas, indicadores y ratios de negocio que faciliten el análisis y la toma de decisiones.
+Garantizar la calidad, consistencia y actualización de los datos, así como el mantenimiento y la evolución de los modelos e informes desarrollados, adaptándolos a las necesidades cambiantes del negocio.
+Dar soporte al equipo de Planificación Comercial y Ventas, resolviendo las dudas que puedan surgir sobre los informes y formándoles para que puedan ser autónomos en la extracción de información.
+Gestionar y coordinarte con el equipo de IT y Oficina Analítica en relación con las incidencias que se produzcan. Realizar el seguimiento y la priorización de las incidencias abiertas mediante la herramienta JIRA. Proponer mejoras en los sets de datos y coordinarte con el resto de BA para dar soporte y resolver incidencias.
+Mantener actualizados los manuales de uso en la wiki.
+Llevar a cabo análisis de venta según diferentes parámetros para el catálogo de libros y presentar conclusiones procesables para nuestro negocio.
+Desarrollar y mantener los informes de predicción de ventas para los comerciales.
+¿Qué nos gustaría ver en ti?
+Formación en
+ADE, Economía, Estadística, Matemáticas o similar
+.
+Dominio de
+MS Excel
+.
+Experiencia en
+Power BI (o BI similar), DAX y modelado
+.
+Valoraremos positivamente la experiencia con
+SQL
+, así como conocimientos en
+Snowflake, DBT y Python, JIRA
+o herramientas similares de gestión de tareas.
+Elevadas habilidades analíticas y capacidad para conectar los resultados de los datos con las aplicaciones de negocio, comunicando eficazmente los resultados a personas diversas.
+Capacidad de aprendizaje, espíritu crítico y buena capacidad de trabajo en equipo.
+¿Qué te ofrecemos?
+Cultura de trabajo flexible, con sistema de teletrabajo al 50%.
+Oficinas ubicadas en el centro de la ciudad.
+Jornada intensiva de viernes, vísperas de festivo y meses de verano.
+Móvil de empresa.
+Acceso a la App de lectura digital y audiolibros.
+Vacaciones por encima de convenio.
+Ticket restaurant.
+Descuentos en productos de la compañía.
+… ¡Y mucho más!
+================================================================================
+
+================================================================================
+A JOB #4: Pricing Analyst
+================================================================================
+Job ID:      4438314968
+Company:     Sompo
+Location:    Barcelona, Catalonia, Spain
+Date Posted: 1 week ago
+URL:         https://www.linkedin.com/jobs/view/4438314968/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+Are you looking for your next opportunity
+?
+Sompo has a unique opportunity for a
+Pricing Analyst
+in our Pricing Department team in our Continental Europe business.
+The Pricing team for Continental Europe plays a central role in driving profitable growth across our Corporate Insurance portfolio. As the business enters an ambitious growth phase, Pricing is evolving beyond traditional actuarial support into a strategic function focused on portfolio steering, advanced analytics, and data-driven decision making.
+We are building a team that combines actuarial expertise with strong analytical and data capabilities to support underwriting excellence and sustainable performance.
+Locat
+ion: This position will be based out of our European offices (
+preferably Madrid or Barcelona
+). We strive for collaboration which is why we offer a work environment where our employees thrive and develop long lasting careers.
+Our Business, Your Impact, Our Opportunity
+What you’ll be doing:
+Support case pricing activities across Corporate and Specialty lines of business
+Analyze exposure and claims data to derive pricing assumptions and technical insights
+Contribute to the development and enhancement of pricing tools and methodologies
+Perform portfolio monitoring activities, including A vs E analysis and performance reporting
+Support dashboard development and management information reporting through data manipulation and analysis
+Assist in MGA onboarding and delegated authority pricing reviews
+Collaborate with cross-functional stakeholders to ensure alignment of technical assumptions and portfolio views
+What You’ll Bring
+Degree in Actuarial Science, Mathematics, Statistics, Data Science, Engineering, Economics or a related quantitative discipline
+0–3 years of experience in actuarial, analytical, or data-focused roles (insurance experience is an advantage but not mandatory)
+Strong quantitative and analytical capabilities
+Advanced Excel skills; knowledge of data analysis tools such as R, Python, SQL, or Power BI is highly valued
+Ability to work with large datasets and interpret results in a business context
+Strong attention to detail and structured approach to problem-solving
+Effective communication skills and collaborative mindset
+At Sompo, we recognize that the talent, skills, and commitment of our employees drive our success. This is why we offer competitive, high-quality compensation and benefit programs to eligible employees.
+Our compensation program is built on a foundation that promotes a pay-for-performance culture, resulting in higher incentive awards, on average, when the Company does well and lower incentive awards when the Company underperforms. The total compensation opportunity for all regular, full-time employees is a combination of base salary and incentives that gets adjusted upfront based on overall Company performance with final awards based on individual performance.
+We continuously evaluate and update our benefit programs to ensure that our plans remain competitive and meet the needs of our employees and their dependents.
+Below is a summary of some of the benefits we offer, which may vary depending on the country:
+ Health & Wellness Benefits
+ Retirement & Savings Plans
+ Global Parental Leave & Adoption Assistance
+ Employee Assistance Program
+ Tuition Reimbursement & Professional Qualification benefits
+Who We Are And What We Stand For
+At Sompo, our shared purpose is to create meaningful value for clients, communities, and each other. We strive to foster a workplace where everyone feels respected, included, and empowered to excel. As a global organization, we embrace diversity and champion equal opportunity. Guided by our core values—Accountability, Agility, Collaboration, Development, and Integrity—we build trust and support one another to achieve our goals worldwide. Life at Sompo page
+Our values come to life in how we hire and grow talent. Employment decisions are based on qualifications, merit, and organizational need, and we strive to ensure equitable access to opportunities so everyone can do their best work. If you need an accommodation for any part of the application process, please contact the recruiter in charge.
+Valoramos positivamente las solicitudes de personas con certificado de discapacidad igual o mayor al 33%, en cumplimiento de la legislación vigente, Ley General de Derechos de las Personas con Discapacidad y de su inclusión social (LGD).
+================================================================================
+
+================================================================================
+A JOB #5: Junior FP&A Analyst
+================================================================================
+Job ID:      4463050214
+Company:     Applus+
+Location:    Cerdanyola del Vallès, Catalonia, Spain
+Date Posted: 1 week ago
+URL:         https://www.linkedin.com/jobs/view/4463050214/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+Somos
+Applus+
+, una de las compañías líderes mundiales en ensayo, inspección y certificación, con presencia en más de 70 países en los 5 continentes y un equipo de más de 28.000 personas.
+Durante los últimos años hemos experimentado un gran desarrollo gracias a nuestro equipo humano que consideramos que son pieza clave y estratégica en el desarrollo de esta compañía.
+¿Te gustaría ser parte del proyecto?
+Actualmente estamos buscando un/a
+Junior FP&A Analyst
+para incorporarse al equipo corporativo de Financial Planning & Analysis (FP&A), un departamento que estamos construyendo para que sea best in class, con un equipo pequeño, exigente y con muy buen ambiente, y con acceso directo a Dirección Financiera, CEO y Consejo. Desde el primer momento vas a tener la oportunidad de ver la fotografía completa de un grupo multinacional.
+Buscamos capacidad analítica, rigor cuantitativo y facilidad con los datos. Si vienes de una ingeniería y quieres desarrollar tu carrera en finanzas, esta posición también está pensada para ti.
+Esta posición puede estar basada tanto en Bellaterra (Barcelona) como en Madrid.
+¿Cómo será tu día a día?
+Participarás en los ciclos de presupuesto, forecast y plan estratégico del Grupo, coordinando con las divisiones la recogida y validación de la información
+Analizarás la evolución del negocio frente a presupuesto, forecast y año anterior, identificando desviaciones, drivers y tendencias emergentes
+Prepararás el reporting mensual de resultados y los KPIs de seguimiento para Dirección
+Construirás y mantendrás modelos financieros para escenarios, sensibilidades y valoración de iniciativas de negocio
+Apoyarás el análisis de inversiones y el seguimiento de M&A frente al business case aprobado
+Prepararás presentaciones y materiales de análisis para comités internos y stakeholders del Grupo
+Contribuirás a automatizar y estandarizar los procesos de análisis y reporting del equipo
+¿Qué estamos buscando?
+Formación universitaria en Ingeniería, ADE, Economía, Finanzas, Matemáticas o similar. Si tu formación es técnica, valoramos interés claro por las finanzas y disposición a formarte en la parte contable y financiera, que aprenderás con nosotros
+Valorable un año de experiencia en FP&A, controlling, auditoría, consultoría o banca de inversión
+Excel a nivel avanzado es esencial.
+Trabajarás a diario con modelos financieros y volúmenes de datos, por lo que valoramos dominio real de fórmulas complejas, tablas dinámicas, Power Query y buenas prácticas de construcción, estructura y trazabilidad de modelos
+Inglés avanzado (C1)
+. Es el idioma de trabajo con las divisiones y filiales del Grupo, tanto escrito como hablado
+Uso de herramientas de IA aplicadas al trabajo financiero
+. Valoramos muy positivamente a quien ya utiliza IA para acelerar la construcción de análisis en Excel, automatizar tareas repetitivas y preparar presentaciones de mayor calidad en menos tiempo. Buscamos perfiles que quieran empujar esta forma de trabajar dentro del equipo
+Deseable experiencia en SAP BPC y Power BI, pero no imprescindible. Se valora también Python, SQL o VBA aplicados a análisis de datos
+Dominio del entorno Microsoft (Excel, PowerPoint, Word, Office 365)
+Capacidad analítica, criterio para priorizar y para convertir datos en conclusiones accionables
+Persona organizada, metódica y con capacidad de interlocución con equipos de distintas geografías
+¿Qué ofrecemos?
+Exposición temprana a la visión completa de un grupo multinacional, con contacto directo con las divisiones y con la alta dirección
+Un equipo en pleno proceso de transformación, donde tu trabajo tiene impacto visible desde el primer mes
+Recorrido de desarrollo dentro de la función financiera corporativa
+Contrato estable y jornada completa
+Plan de retribución flexible (seguro médico, transporte, guardería, ticket restaurant)
+Parking para empleados
+Cantina con precio reducido
+================================================================================
+
+================================================================================
+A JOB #6: Prime Associate Business Analyst
+================================================================================
+Job ID:      4461952450
+Company:     eDreams ODIGEO
+Location:    Barcelona, Catalonia, Spain
+Date Posted: 2 weeks ago
+URL:         https://www.linkedin.com/jobs/view/4461952450/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+Prime Associate Business Analyst - (Hybrid)
+As you contemplate your future, you might be asking yourself, what's the next step? Start your journey with us!
+We're seeking an experienced Prime Business Analyst to join our Prime Team in Barcelona (hybrid) to help define the broader talent strategy across multiple teams. If you're ready to soar, we're ready to take you there.
+Why eDreams ODIGEO
+Join the world's leading travel subscription platform.
+Millions of customers every year across 44 markets – 5 brands – over 7.7 million Prime members since launching in 2017.
+More than 100 million searches per day on our websites - more than 6 billion AI daily predictions
+Over 1,700 employees – More than 60 different nationalities from all continents – 99% permanent contracts
+We're the world’s leading travel subscription platform. We pioneered Prime, the first and largest travel subscription programme, which has topped over 7.7 million members since launching in 2017. Prime members are subscribed to global travel, gaining access to a comprehensive multi-product offering for all their travel needs—including hotels, rail, flights, dynamic packages and car rental, among others— compounded by industry-leading flexibility features and exclusive, member-only benefits. This entire Prime experience is powered by a proprietary, industry-leading AI platform that delivers a smarter, hyper-personalised service and comprehensive travel experience globally to its members.
+What you will do:
+The Role's Key Responsibilities and Tasks
+As an eDOer, you will have clear objectives, great challenges and a clear overview of how your work contributes to the global company project and its customers. As a Prime Business Analyst in the Prime Analytics team you will be in charge of:
+The Prime Business Analyst’s mission is to contribute to the Prime strategic roadmap with business insights, ie. to generate business insights from data analysis so that they can translate into improvements for the program.
+Responsible for execution of key analysis, being the data entry point for the business team and including taking ownership of the database from the business side. Understand the business needs, gather the data and present the key insights: “Contribute to the Prime strategic roadmap with numbers”.
+Elaborate business cases to support strategic product decisions: e.g. should we include more “benefits” into the program? What is the profitability of a free-trial?
+Create dashboards and tracking: master the internal Business Intelligence tools to contribute to the monitoring and tracking of our business KPIs. Work with data engineering and data science teams to be able to leverage all our internal data
+Contribute to the delivery of the Prime strategic projects: participate in the delivery of the key internal projects, giving support from the business side to ensure progress and effective delivery of the desired outcomes.
+Work together with product and Marketing in the execution of the projects, giving support from the analytical and business side.
+What you need to succeed:
+Good to have
+Bring your unique perspective, speak up, and offer disruptive solutions. You'll have the opportunity to learn and grow while making a real impact on our team. Here's what you need to succeed:
+Bachelor’s degree in a quantitative discipline (Mathematics, Statistics, Computer Science, Engineering, Economics, etc.).
+Experience in a role with a strong analytical component is a plus.
+Knowledge of SQL, as well as experience in working with databases and large sets of data; and experience with Google DataStudio is required
+Advanced Office skills. Strong experience with analytical tools, ideally with the Google toolset (spreadsheets, google docs, etc).
+Strong analytical skills, fast-learner, with high attention to detail and focused on results and productivity.
+A self-starter and team player, who also enjoys to have fun!
+Business Proficiency in English.
+What’s in it for you?
+The best talent deserves the best benefits
+At eDO, we want you to be a part of our success story and great culture.
+Here’s what we offer:
+A rewarding Compensation package! 💥 Prime Plus membership, Competitive salary and benefits package, including flexible benefits, performance-based bonuses, birthday day off, discounts and partnerships, relocation support and the possibility of choosing your equipment and, even better, keeping it for free after 3 years.
+Continuous learning to fuel your growth and explore new horizons! 📚 Learn and grow with free Coursera access, soft skills workshops, tech training, leadership development, and more. Plus, enjoy a great onboarding program.
+Grow opportunities to empower your career, and unleash your potential! 🚀Personalised career paths and the eVOLVE Program will help you discover, grow, and thrive. Internal mobility opportunities let you pursue horizontal career changes and promotions.
+Your Well-being is our Priority. Embrace Freedom and Flexibility! 💙At eDO, we value flexibility, employee care, and transparency. We offer a hybrid home-office model focused on outcome, not time-in-seat. You’ll be able to find the right work-personal life balance that suits you best.
+Work hard, party hard! We believe in having fun and connecting with colleagues! 🎉 Join eDO for after-work events, padel tournaments, parties, and more. Create communities based on your passions, like sports and music. Come to work as you are, with no dress code, and enjoy free fruit, coffee, and tea at our offices.
+Enjoy a dynamic and healthy environment! 💫Be innovative, take risks, and share your ideas. Our diverse and open-minded teams support high performance, learning, and growth. You’ll work in an Agile Mindset environment with recognition at our core.
+Wanna take a peek into what it’s like to work at eDO? Follow us on LinkedIn and discover more about life at eDO!
+If you are ready for a career opportunity with unmatched benefits, continuous learning, and a supportive work-life balance, look no further! Take your career to new destinations by applying now and help our diverse, inclusive, and passionate team shape the future of travel.
+Apply now!
+We are an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, colour, national origin, gender, sexual orientation, age, marital status or disability status. Our people are the key of our success. Each one of them is unique in their own way and the respect for their uniqueness is and will always be a passion and motivation. Don’t meet every requirement? If you’re excited about this role but you do not feel your experience aligns perfectly with all the requirements we strongly encourage you to apply nevertheless.
+================================================================================
+
+================================================================================
+A JOB #7: Data Analytics (Customer Experience)
+================================================================================
+Job ID:      4466250826
+Company:     Massimo Dutti
+Location:    Tordera, Catalonia, Spain
+Date Posted: 4 days ago
+URL:         https://www.linkedin.com/jobs/view/4466250826/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+GRADAUATE PROGRAM: DATA & ANALYTICS
+Departamento de Atención al Cliente · Tordera (Barcelona)
+Sobre la posición:
+Buscamos un profesional con interés por el análisis de datos y la experiencia de cliente para ayudar a transformar información en insights accionables que apoyen la toma de decisiones. La posición ofrece la oportunidad de trabajar con datos operativos, identificar tendencias y contribuir a la mejora continua de procesos y experiencia de cliente.
+Tareas:
+Extraer, analizar y modelar datos para responder a necesidades de negocio.
+Diseñar, desarrollar y mantener dashboards e informes en Power BI.
+Analizar indicadores relacionados con la experiencia de cliente, satisfacción, volumen de contactos y eficiencia operativa.
+Identificar tendencias, oportunidades de mejora y posibles áreas de optimización.
+Automatizar procesos de reporting para mejorar la eficiencia y fiabilidad de la información.
+Colaborar con distintos equipos para transformar datos en recomendaciones claras y accionables.
+Qué buscamos:
+Recientemente graduados de: Data Science, Ingeniería, Estadística, Matemáticas, Informática o áreas afines.
+Conocimientos de SQL y Power BI.
+Experiencia valorable (no excluyente): Snowflake y Python.
+Inglés avanzado.
+Capacidad analítica y orientación a la resolución de problemas.
+Actitud proactiva, curiosidad y ganas de aprender y desarrollarse profesionalmente.
+================================================================================
+
+================================================================================
+A JOB #8: LOAN DATA & OPERATIONS ANALYST
+================================================================================
+Job ID:      4466880143
+Company:     CaixaBank
+Location:    Barcelona, Catalonia, Spain
+Date Posted: 5 days ago
+URL:         https://www.linkedin.com/jobs/view/4466880143/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+¿Qué proyectos desarrollamos?
+En Servicios Operativos de Tesorería (SOT) trabajamos en el núcleo operativo de los mercados financieros de CaixaBank, dando soporte a actividades críticas de post-trade, lifecycle, liquidez, clearing, garantías, renta fija, derivados y nuevas iniciativas estratégicas de Tesorería. La nueva unidad especializada en Loan Data & SRT Operations se integrará en SOT con una visión transversal, apoyando a ALM Treasury & Funding en la calidad, trazabilidad y uso operativo del dato de activos que soporta las operaciones de titulización.
+Misión del puesto
+Asegurar la calidad, integridad, trazabilidad y explotación operativa de los datos de activos asociados a operaciones Synthetic Risk Transfer (SRT), contribuyendo al seguimiento de carteras, reporting, evidencias auditables y mejora continua del modelo operativo.
+Responsabilidades principales
+Gestionar y analizar loan tapes y bases de datos de activos subyacentes de operaciones SRT.
+Ejecutar controles de calidad de dato, validaciones, reconciliaciones y seguimiento de excepciones.
+Dar soporte operativo al closing y al lifecycle de titulizaciones: altas, bajas, amortizaciones, defaults e incidencias.
+Preparar reporting operativo, evidencias auditables y dashboards para stakeholders internos, inversores y supervisor cuando aplique.
+Diseñar automatizaciones y herramientas de control mediante SQL, Python, Power BI u otras tecnologías de análisis.
+Participar en proyectos transversales relacionados con datos, regulación, originación, control y transformación operativa.
+Requisitos:
+Requisitos mínimos
+Titulación superior con componente cuantitativo: Matemáticas, Física, Ingeniería, Economía, ADE o similar.
+Conocimientos sólidos de análisis de datos y programación: SQL, Python o equivalente.
+Nivel alto de inglés escrito y hablado, con capacidad para interactuar con partners internacionales.
+Manejo avanzado de Excel. Se valorará experiencia con Power BI, herramientas de reporting y data quality.
+Interés por mercados financieros, gestión de riesgos, productos estructurados y dinámica de balance/capital.
+Se valorará experiencia en operaciones financieras, riesgos, reporting regulatorio, gestión de datos o proyectos de transformación.
+Competencias clave
+Capacidad analítica
+Orientación al detalle
+Trabajo transversal
+Autonomía e iniciativa
+Aprendizaje continuo
+Resiliencia y adaptación
+¿Qué ofrecemos?
+Incorporarte a una unidad de nueva creación, con visibilidad y recorrido profesional.
+Desarrollar una combinación diferencial de expertise de mercados, análisis de datos y control operativo.
+Trabajar en un entorno dinámico y colaborativo, con impacto directo en una actividad estratégica para la gestión de capital y balance del banco.
+Si te interesa la oferta, no dudes en aplicar a la oferta en el siguiente enlace
+================================================================================
+
+================================================================================
+A JOB #9: Junior Data Analyst - Automation & Reporting
+================================================================================
+Job ID:      4461660441
+Company:     InPost España
+Location:    Barcelona, Catalonia, Spain
+Date Posted: 2 weeks ago
+URL:         https://www.linkedin.com/jobs/view/4461660441/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+Everything you are looking for and more 📦
+Join our Customer Care team at InPost Iberia as a
+Junior Data Analyst
+and become the bridge between raw data and business impact. Your mission: unlock the power of our data through automations that free up time for the team, dashboards that drive decisions, and a genuine curiosity to understand not just the "what" but the "why" behind every request.
+What responsibilities and objectives will you have?
+Design, build and maintain automations that reduce manual work for the Customer Care team and its agents, continuously improving them to maximize efficiency.
+Automate the processing of recurring, business-critical files such as claims files, preparing them ready for review and minimizing human error.
+Handle ad-hoc data requests: pulling lists, cross-referencing sources, running validations and delivering insights that support day-to-day decision-making.
+Design, develop and maintain internal dashboards in Power BI that track KPIs and make data accessible across the team.
+Contribute to Customer Care data tables and models, ensuring alignment with the standards set by the international data team.
+Represent Customer Care Iberia in cross-functional company projects, bringing the data and operational perspective of the area to broader business initiatives.
+Well, what will the requirements be?
+Mandatory
+Solid SQL and Python (PySpark) — you can write and debug queries and scripts independently.
+Proficiency in the Microsoft environment, particularly Excel, SharePoint and Power Automate.
+Experience building dashboards and reports in Power BI.
+Autonomy and problem-solving mindset: the ability to take a loosely defined brief, find a way forward and propose solutions without constant guidance.
+Genuine interest in the business context, not just the data — you ask why something is being requested and what it will be used for before diving into execution.
+Working level of English for day-to-day collaboration within an international team.
+Spanish (working level) for collaborating directly with the local Customer Care team.
+Nice to Have:
+Experience with workflow automation tools such as n8n or similar platforms.
+What do we offer?
+Language platform
+Wellbeing programme
+Flexible working hours
+Online platform for lifelong learning
+Competitive salary
+Flexible remuneration services can be contracted
+Why join us?
+At InPost, you will play a key role in shaping how millions of customers interact with last-mile delivery solutions. You will work in a fast-growing, innovative environment where your contributions directly support the company’s expansion and market presence. Our culture is built around five key behaviours, driven by a strong “Go Go Go” mindset focused on speed and determination.
+CHAMPION THE CUSTOMER: We put the customer at the center of everything we do and strive to exceed expectations.
+OWN IT: We take responsibility, act with initiative, and proactively drive solutions.
+DARE TO DISRUPT: We embrace innovation, ambition, and continuous learning to grow and improve together.
+MAKE IT HAPPEN: We adapt quickly, learn constantly, and move forward with Smart execution.
+WIN TOGETHER: We achieve great results through collaboration, recognition, and a shared winning mindset.
+Inclusive Culture
+At InPost, we are committed to building a diverse and inclusive workplace. We welcome applications from all backgrounds and believe that different perspectives strengthen our teams and drive better results.
+InPost has an Equal Opportunities Plan that promotes equality at all levels. We aim for equality in the company's workplaces, as it is focused on promotion, within and outside the company, as well as gender equality, diversity, equity and inclusion of people regardless of their abilities and conditions.
+================================================================================
+
+================================================================================
+A JOB #10: Strategy & Execution Analyst (Energy & Utilities)
+================================================================================
+Job ID:      4424571530
+Company:     Metyis
+Location:    Barcelona, Catalonia, Spain
+Date Posted: 1 day ago
+URL:         https://www.linkedin.com/jobs/view/4424571530/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+Metyis is growing! We are looking for a talented Strategy and Execution Analyst with +2 years of experience to join our Strategy and Execution team in Barcelona.
+Who we are
+We are Metyis, a forward-thinking, global company that collaborates with business partners and clients to create and implement the capacities and capabilities required to improve future performance. We operate across a wide range of industries, and with our embedded partnership model, we commit to driving sustainable growth for industry-leading organisations, elevating their potential with a long-term vision.
+At Metyis, we develop integrated solutions that enable growth by working within our business partners’ organisations with diverse and multidisciplinary teams. This collaborative environment allows Metyis to build strategies and execute them through an ecosystem that combines Big Data solutions, Digital Commerce solutions, Marketing & Design solutions, and Advisory services.
+Our teams are set up so that you have plenty of room to build bigger and bolder ideas by speaking your mind and being creative with your knowledge. Imagine the things you could achieve with a multidisciplinary team that encourages you to be the best version of yourself.
+We are Metyis. Partners for Impact.
+What We Offer
+Interact with C-level at our clients on regular basis to drive their business towards impactful change.
+Contribute to creating new business solutions via data driven insights.
+Seize opportunities at the client and at Metyis in our entrepreneurial environment.
+Become part of a fast growing international and diverse team.
+What you will do
+You will play a key role in our project teams.
+Under the Manager’s supervision, you will conduct market research, you will hold client interviews, you will develop analytical models and derive business recommendations out of them, to drive positive change in our clients.
+You will play a particular role in the data driven analyses as our clients require more and more that analytical base in business related projects.
+You will lead the preparation of meetings, workshops and presentation to clients to share progress.
+You will receive a thorough training (formal and ‘on-the-job’), continuous feedback and a close coaching that will ensure your career advancement within the firm.
+What you will bring
+Exceptional BA and/or MSc graduates with a variety of backgrounds in financial, technical or other quantitative studies.
+0-2 years of working experience.
+Outstanding record of (academic) achievement.
+Excellent social and analytical skills.
+Data Management Skills.
+Genuine eagerness to learn from- and closely work together with other talented people.
+Profound knowledge of the Spanish and English language, both verbal and written.
+Basic knowledge of PowerPoint and Excel.
+At Metyis, we are driven by curiosity and collaboration. We value diversity, equity, inclusion, and belonging (DEIB) in all its forms as it makes us stronger as an organisation and promotes creativity and innovation. We welcome all talents and are committed to creating a workplace where every employee can make a meaningful impact and grow.
+================================================================================
+
+================================================================================
+A JOB #11: Gestor/a Administración fondos / Data analytics
+================================================================================
+Job ID:      4457479835
+Company:     VidaCaixa
+Location:    Barcelona, Catalonia, Spain
+Date Posted: 3 weeks ago
+URL:         https://www.linkedin.com/jobs/view/4457479835/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+El objetivo del departamento de Administracion de Fondos de Pensiones y EPSV's es:
+Gestionar la administración contable y fiscal de 160 fondos de pensiones y 40 ESPV, mejorando las aplicaciones y procesos, controlando integridad así como mejoras en todo el proceso.
+Gestionar y mejorar el Data contable así como sus reportings ( Auditores, regulador, reportings internos, . . .) implementando controles y adaptaciones a nuevos requerimientos internos y externos.
+Participar activamente en proyectos internos y transversales de Vidacaixa.
+Integrar la gestión de Data y la IA en el dia a dia para mejorar eficiencias y aportar más valor
+Descripción de la oferta:
+¿Cuál será tu propósito dentro de VidaCaixa?
+Gestionar las aplicaciones de valoración y contabilidad de fondos de pensiones y su sistema informacional para poder ser activo en controles, poder mejorar la aplicación desde punto de vista contable y seguir los controles establecidos.
+Colaboración activa en la transformación del departamento hacia un enfoque mucho más basado en el dato, así como en la calidad del dato de reportings externos, así como la aplicación de Inteligencia Artificial en los proceso del departamento para una mejora de eficiencia y calidad.
+Colaboración/gestión de proyectos departamentales y interdepartamentales, así como colaboración con los departamento de Valoración de inversiones, Administración de inversiones y Operaciones de Planes de Pensiones
+Requisitos:
+Eres el talento que estamos buscando si cuentas con…
+Formación : Administración de empresas, Ciencias Actuariales o Estadística con especialidad en gestión de datos
+Se valorá experiencia en contabilidad de inversiones o de fondos de pensiones o bien en gestión de datos con lenguajes de sql o phyton
+SKILLS : Capacidad analítica y de interrelacionar, trabajo en equipo, iniciativa, ser constructivo frente a escenario adversos
+Idiomas: Inglés grado Advanced
+Sabemos qué harás un gran trabajo, por eso hemos pensado en estos beneficios para ti…
+Contrato indefinido.
+Flexibilidad horaria de entrada (7:30 a 9:30) y en la comida (puedes emplear entre un mínimo de 45 minutos y un máximo de 2 horas) para que puedas autogestionar tu tiempo.
+Todos los viernes con jornada intensiva para que puedas disfrutar más del fin de semana.
+Del 15 de junio al 15 de septiembre jornada intensiva TODOS los días, porque sabemos que es verano y quieres disfrutar más tiempo de las horas de sol
+Modelo de trabajo híbrido. Porque creemos que pasar tiempo en la oficina es un factor clave para desarrollar la creatividad, y disfrutar en equipo.
+Acceso a una plataforma online de formación, con un amplio catálogo autoformativo, para que tu aprendizaje sea continuo.
+Fruta, porque es importante cuidarse. ¡Mens sana, in corpore sano!
+29 días hábiles de vacaciones. ¡Desconectar, para volver a conectar!
+Plan de Beneficios: plan de pensiones, seguro de salud, seguro de vida y compensación por comida.
+Retribución flexible aplicado a guardería, transporte y seguro de salud familiares.
+¿Cómo será el proceso de selección?
+Recibimos y validamos tu solicitud.
+Evaluación telefónica con especialista de selección.
+Realización de informe.
+Entrevista con el/la responsable de departamento.
+Entrevista personal con HRBP.
+¡Y no lo olvides, te daremos feedback!
+================================================================================
+
+================================================================================
+A JOB #12: Consultoría | NJFY27 Junior Artificial Intelligence & Analytics | Septiembre 2026
+================================================================================
+Job ID:      4315430606
+Company:     PwC España
+Location:    Greater Barcelona Metropolitan Area
+Date Posted: 1 week ago
+URL:         https://www.linkedin.com/jobs/view/4315430606/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+En PwC te ofrecemos la posibilidad de iniciar tu carrera profesional trabajando desde tu incorporación para clientes de primer nivel (tanto nacionales como internacionales). Formarás parte de un equipo de trabajo con gran variedad de perfiles profesionales que potenciarán tu aprendizaje.
+Apostamos por jóvenes sin experiencia, con pasión por el mundo de la Consultoría y la IA, que quieran desarrollar su carrera profesional con nosotros.
+En nuestra línea de Consultoría de Negocio centrada en
+IA
+, ayudamos a nuestros clientes a integrar la analítica avanzada y la inteligencia artificial en sus operaciones diarias y, posteriormente, la incorporación de los resultados en los procesos y sistemas operacionales.
+Requisitos:
+Buscamos estudiantes de último curso de Grado/Postgrado o perfiles de recién graduados, abarcando un amplio abanico de titulaciones:
+Ciencia de datos.
+Ingenierías (Industrial, Aeronáutica, Informática, Telecomunicaciones, etc.).
+Grado en Matemáticas, Estadística, Física.
+Es
+IMPRESCINDIBLE
+tener la titulación finalizada (incluyendo el Proyecto Fin de Grado o Máster) para poder incorporarse en agosto/septiembre de 2026. No obstante, ten en cuenta que puedes participar en nuestro proceso de selección sin haber finalizado los estudios. El proceso estará abierto de octubre de 2025 a julio de 2026, aunque te recomendamos que no demores tu participación.
+Otros requisitos:
+Nivel de inglés alto oral y escrito (se evaluará durante el proceso de selección)
+Valoraremos positivamente un buen expediente académico y carrera cursada según cronología del plan de estudios.
+Valoraremos prácticas en empresa, estancias internacionales (Erasmus) y conocimiento de otros idiomas.
+No requerimos experiencia, pero sí ganas de aprender.
+================================================================================
+
+================================================================================
+JOB #13: CRM and Power BI Internship
+================================================================================
+Job ID:      4468769329
+Company:     Volkswagen Group España Distribución
+Location:    Barcelona, Catalonia, Spain
+Date Posted: 6 hours ago
+URL:         https://www.linkedin.com/jobs/view/4468769329/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+🎓 ¿Has terminado tus estudios?
+🚗 Empieza tu carrera en
+VGED
+¿Y si tu primer paso profesional fuera mucho más que unas prácticas? ✨
+Si acabas de terminar tus estudios y tienes ganas de descubrir cómo funciona una gran compañía desde dentro, este puede ser el inicio de un viaje muy interesante.
+En
+Volkswagen Group España Distribución
+buscamos talento joven con curiosidad 💡, energía ⚡ y ganas de aprender participando en proyectos reales dentro del sector de la automoción.
+A través de nuestro
+Internship Program
+, ofrecemos
+dos oportunidades de prácticas de 12 meses
+en áreas clave del negocio:
+🚐
+Group After Sales – Planning
+📈
+Volkswagen Vehículos Comerciales – Sales
+Además, complementarás tu experiencia con el
+Máster Corporativo in Management and Digital Business in the Automotive Industry
+en
+EADA Business School
+,
+100% subvencionado por la empresa
+. 🎓
+🌟
+¿Por qué unirte a nuestro Internship Program?
+Porque no se trata solo de hacer prácticas.
+Se trata de:
+✅ Aprender haciendo.
+🤝 Participar en proyectos reales.
+📊 Entender cómo funciona el negocio desde dentro.
+🚘 Formar parte de una compañía que distribuye las marcas
+Volkswagen, Audi, Škoda, Ducati y Volkswagen Vehículos Comerciales
+en Península y Baleares.
+🎁
+Lo que te ofrecemos
+Queremos que esta experiencia impulse tu futuro profesional.
+Por eso disfrutarás de:
+📅 Prácticas remuneradas de
+12 meses
+en áreas estratégicas.
+🎓 Máster Corporativo en
+EADA Business School
+,
+100% subvencionado
+.
+🏡 Modelo de trabajo híbrido.
+🍽️ Subvención en dietas en el comedor de empresa.
+🌞 Vacaciones remuneradas:
+20 días laborables en verano.
+5 días laborables en Navidad.
+🎉 Planes de engagement y actividades para conectar con otros participantes del programa.
+🚀 Tenemos dos oportunidades para ti
+1. Prácticas en Sales – Volkswagen Vehículos Comerciales
+Si te interesa el mundo comercial, el análisis de negocio y la coordinación entre equipos, esta oportunidad es para ti.
+¿Qué harás?
+📂 Darás soporte administrativo en proyectos comerciales.
+💰 Gestionarás y realizarás el seguimiento del presupuesto de marketing:
+Solicitudes de compra.
+Facturación.
+Firmas.
+Archivo.
+Reporting.
+🤝 Colaborarás en la alineación de
+Renta Cars
+y
+Remarketing
+.
+🌐 Trabajarás con:
+Gerentes de zona.
+Transporte.
+Facturación.
+Logística de concesionarios.
+Consultores de vehículo de ocasión.
+📈 Harás seguimiento de los principales KPI del negocio.
+2. Prácticas en Planning – Group After Sales
+Si te apasionan los datos, la planificación comercial y la estrategia, esta posición te permitirá trabajar con información real y participar en la toma de decisiones.
+¿Qué harás?
+📈 Apoyarás al área de Planning en el seguimiento de indicadores de actividad de la red.
+🎯 Colaborarás en el seguimiento de objetivos comerciales de recambios.
+📊 Analizarás información procedente de distintas fuentes para entender la evolución del negocio.
+📝 Elaborarás informes y presentaciones para identificar oportunidades de mejora.
+✔️ Participarás en la validación de información de actividad de los concesionarios.
+¿Qué te llevarás de esta experiencia?
+🌍 Tu primera experiencia profesional en una compañía internacional del sector de la automoción.
+🚀 Aprendizaje real en áreas con impacto directo en el negocio.
+📊 Desarrollo de competencias:
+Analíticas
+Comerciales
+Digitales
+Gestión de proyectos
+🤝 Contacto con profesionales de diferentes áreas y marcas del Grupo.
+¿Te animas a empezar el viaje con nosotros?
+Buscamos personas con:
+💡 Curiosidad.
+📚 Ganas de aprender.
+🚗 Interés por el sector de la automoción.
+📊 Capacidad analítica.
+🙌 Actitud proactiva.
+🚀 Motivación por participar en proyectos reales desde el primer día.
+Si quieres empezar tu carrera en un entorno dinámico, internacional y con visión de futuro,
+esta puede ser tu oportunidad
+.
+¡Aplica y empieza el viaje con nosotros! 🚗💙
+================================================================================
+
+================================================================================
+X JOB #14: Auditor Junior
+================================================================================
+Job ID:      4466290507
+Company:     Empresa Confidencial
+Location:    Greater Barcelona Metropolitan Area
+Date Posted: 4 days ago
+URL:         https://www.linkedin.com/jobs/view/4466290507/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+Buscamos incorporar una persona con alto potencial para formar parte de un proyecto empresarial en crecimiento, trabajando de manera muy cercana a la Dirección de Estrategia y participando activamente en iniciativas clave para la toma de decisiones de la compañía.
+La persona seleccionada tendrá la oportunidad de involucrarse desde el inicio en proyectos de gran impacto, colaborando en análisis estratégicos, planificación financiera y preparación de documentación para los principales órganos de decisión de la empresa. Se trata de una posición con una elevada exposición al negocio, un importante recorrido de aprendizaje y un nivel de responsabilidad creciente en función de la evolución y desempeño del perfil.
+Principales funciones:
+Elaboración y actualización de modelos financieros para apoyar la toma de decisiones.
+Preparación de presentaciones e informes para Dirección y órganos de gobierno corporativo.
+Participación en proyectos junto a asesores financieros externos y entidades financieras.
+Seguimiento de indicadores clave de negocio y elaboración de reporting de gestión.
+Desarrollo de análisis estratégicos, estudios de mercado y benchmarking competitivo.
+Coordinación con diferentes áreas de la compañía para la recopilación y consolidación de información.
+Perfil buscado:
+Grado universitario en ADE, Economía, Ingeniería o disciplinas afines.
+Se valorará formación de posgrado especializada en Finanzas.
+Entre 0 y 2 años de experiencia en consultoría, banca de inversión, auditoría o entornos similares.
+Dominio avanzado de Excel.
+Nivel alto de inglés (C1). Se valorará conocimiento de francés.
+Disponibilidad de vehículo propio para acceder al centro de trabajo.
+Si buscas una oportunidad para desarrollar una visión estratégica del negocio y participar en proyectos con impacto real desde el primer día, nos encantará conocerte.
+================================================================================
+
+================================================================================
+A JOB #15: Entry-Level Strategy & Operations Consultant – Life Sciences Sector
+================================================================================
+Job ID:      4461724521
+Company:     BIP Spain
+Location:    Barcelona, Catalonia, Spain
+Date Posted: 2 weeks ago
+URL:         https://www.linkedin.com/jobs/view/4461724521/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+We are a growing international consulting firm that supports multinational companies in the Life Sciences sector in the identification of opportunities, the design of access and commercial strategy and in the transformation of the model that best supports strategy and value creation. From our team in Spain, you will work for the main companies in the sector, both nationally and on international projects in Europe, Americas, Asia Pacific and the Middle East.
+Bip has a flexible work model (schedule, teleworking, career speed, parenthood, etc.) focused on the development and growth of our team both professionally (training plans, coaching, individualized career plan, etc.) and personally (sports, social and volunteer activities). Our market position and level of growth allows us to offer accelerated career paths for exceptional professionals.
+The key to Bip's success is simple: the pursuit of excellent service with an ethical and loyal approach to our customers, designing innovative solutions and developing cutting-edge products and services. We have specialist teams in the main industries: Energy & Infrastructure, Financial Sector, Healthcare, Industry, Public Sector, Retail & Telecommunications, Media & Entertainment.
+The quality of our work, the strength and flexibility of our firm and the support of our largest shareholder, CVC Capital Partners, has allowed us to grow from our foundation in 2003, until today, where we work in more than 40 countries in Europe, Americas and Africa. We currently have more than 6,000 professionals worldwide, of which more than 300 are in our offices in Madrid, Barcelona and Lisbon.
+What will be your challenge?
+As an entry-level Consultant within the Life Sciences team, your role will involve collaborating with clients on decision-making analysis and solution design throughout the business and access value chain. You'll focus on maximizing product penetration and creating significant business impact through activities such as opportunity assessment, competitive analysis, market access strategy, pricing and reimbursement, product lifecycle management, portfolio strategy, business excellence, organizational transformation, and sustainability, all supported by market intelligence and data strategy.
+Responsibilities:
+Conduct competitive analysis (benchmarking)
+Gather, analyze, and synthesize information
+Perform quantitative and qualitative analyses
+Prepare project deliverables and necessary documentation
+Participate in project management
+Prepare presentations for senior management
+Engage in knowledge development
+The type of projects in which you will participate:
+Portfolio management
+Commercial strategy and Launch excellence
+Market access, pricing, and reimbursement strategy
+Life cycle management
+Commercial effectiveness and customer engagement
+Disease management
+Organizational transformation
+Do You Want to Join Us?
+Requirements:
+Bachelor's degree
+Basic understanding of the Life Sciences sector
+Proficiency in Spanish and English; knowledge of other languages is advantageous
+Strong analytical and problem-solving skills
+Ability to communicate effectively with high-level clients
+Proactive attitude with a commitment to continuous improvement
+Bip Iberia, in commitment and coherence with the Comprehensive Law for Equal Treatment and Non-Discrimination, has all profile search positions open to all those people who are duly qualified to fill the vacancy, regardless of their age, disability, gender, sexual or political orientation, race or belief.
+BUSINESS INTEGRATION PARTNERS CONSULTING IBERIA, S.L., with NIF B84701903 and contact Enrique Martín, will process the data received when applying your candidacy in the offer as Data Controller, in order to manage the selection process currently active based on the application of pre-contractual measures in article 6.1. b) of the GDPR, as well as for future selection processes if your profile is of interest, based on the consent of article 6.1 a).
+BUSINESS INTEGRATION PARTNERS CONSULTING IBERIA, S.L. will not communicate your data to third parties unless legally obligated. Likewise, the retention period of your CV is a maximum of 1 year, in which it will be destroyed.
+You can also exercise your rights of access, rectification, deletion, opposition, limitation of processing, portability, and not to be subject to automated individualized decisions or consult additional information about the processing in the email:
+dpo-bipspain@bip-group.com
+.
+================================================================================
+
+================================================================================
+X JOB #16: Graduate data scientist
+================================================================================
+Job ID:      4467891631
+Company:     Bending Spoons
+Location:    Barcelona, Catalonia, Spain
+Date Posted: 3 days ago
+URL:         https://www.linkedin.com/jobs/view/4467891631/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+At Bending Spoons, we’re striving to build one of the all-time great companies. A company that serves a huge number of customers. A company where team members grow to their full potential. A company that functions at unparalleled levels of effectiveness and efficiency. A company that creates value for shareowners at an extraordinary rate. And a company that does so while adhering to high ethical standards.
+In pursuit of this objective, we acquire and improve digital businesses, not to sell on, but to own and operate for the long term. The transformations we make are often deep—designed to speed up innovation, benefit customers, and strengthen business performance. Here, hierarchy is minimal and teams are small and talent-dense. We operate established products with the ambition, agility, and urgency of a startup. Across the company, we integrate AI deeply into how we work so that human judgment and machine intelligence reinforce each other.
+For a talented, driven, and collaborative individual, working at Bending Spoons is an opportunity to learn, make an impact, and progress their career at an exceptionally high rate. That’s our promise to such a candidate.
+A few examples of your responsibilities
+Design and improve data pipelines.
+Contribute to the design and evolution of data systems—ensuring data is accurate, reliable, and efficiently processed across diverse tech stacks.
+Ensure data correctness and scalability.
+Work closely with software engineers to validate data, define metrics, and improve the robustness of reporting and analytics systems.
+Develop internal data products and tooling.
+Help build scalable solutions (e.g., reporting engines, forecasting tools) used by product teams across the company.
+Support platform-wide decision-making.
+Partner with multiple teams to provide the analytical and modeling backbone for business planning and performance tracking.
+Leverage AI to accelerate work and uncover insights.
+Use AI tools to move faster, surface ideas and opportunities, and study competing products and trends.
+What we look for
+Reasoning ability.
+Given the necessary knowledge, you can solve complex problems. You think from first principles, and structure your ideas sharply. You resist the influence of biases. You identify and take care of the details that matter.
+Drive.
+You’re extremely ambitious in everything you do—and your initiative, effort, and tenacity match the intensity of your ambition. You feel deeply responsible for your work. You hold yourself to a high—and rising—bar.
+Team spirit.
+You give generously and without the expectation of receiving in return. You support the best idea, not your idea. You're always happy to get your hands dirty to help your team. You’re reliable, honest, and transparent.
+Proficiency in English.
+You read, write, and speak proficiently in English.
+What we offer
+Incredibly talented, entrepreneurial teams.
+You’ll work in small, result-oriented, autonomous teams alongside some of the brightest people in your field.
+An exceptional opportunity for growth.
+We go to great lengths to hire individuals of outstanding potential—then, our priority is to put them in the ideal position to thrive. Spooners in their 20s lead products worth hundreds of millions of dollars. And if you’ve got what it takes, you’ll soon be playing an essential role in major projects, too.
+All. These. Benefits.
+Flexible hours, remote working, unlimited backing for learning and training, top-of-the-market health insurance, a rich relocation package, generous parental support, and a yearly retreat to a stunning location. We help each Spooner set up the conditions to do their best work.
+Competitive pay and access to company equity at a discount.
+Typical annual salary offers range from £85,797 to £151,436 in London and from €66,065 to €107,837 elsewhere in Europe. The lower end of these ranges applies to candidates with little or no relevant experience, while exceptionally experienced candidates may receive offers of up to £316,052 in London or €240,330 elsewhere in Europe. Candidates offered a permanent contract may choose to receive part of their compensation in discounted company equity.
+Commitment & contract
+Permanent or fixed-term. Full-time or part-time.
+Location
+Milan (Italy), London (UK), Madrid (Spain), Warsaw (Poland), or fully remote from eligible countries.
+The selection process
+In our screening process, we prioritize verifiable signals of excellence, regardless of seniority. There are no preferential paths beyond what your application demonstrates, and we evaluate every candidate through the same process.
+Some people hold back because they feel they lack experience or have an “imperfect” CV. If you like the role and believe you could excel over time, don’t self-reject.
+All applications go through our careers page, which is the only way to be considered. If you pass our screening, you’ll be asked to complete one or more tests. They are challenging, may involve unfamiliar problems, and can take several hours. To learn more about what to expect throughout the selection process, you can find additional information here.
+We set the bar high and won’t extend an offer until we’re confident we’ve found the right candidate. This is why a job may remain open for months or be reposted several times.
+We consider all applicants for employment and provide reasonable accommodations for individuals with disabilities—please let us know through this form.
+Before you apply
+If you’ve applied before but didn't receive an offer, we recommend waiting at least one year before applying again.
+Bending Spoons is a demanding environment. We’re extremely ambitious and we hold ourselves—and one another—to a high standard. While this tends to lead to extraordinary learning, achievement, and career growth, it also requires significant commitment.
+To help you ramp up quickly and set yourself up for success, we expect you to spend most days in our Milan office during your first few months with us, regardless of your long-term work location. It’s the best way to rapidly absorb our company culture and build trust with your new teammates. We’ll support you with generous travel and accommodation assistance. After that, you’re welcome to work from one of our offices, or remotely from approved countries—depending on what we agree at the offer stage.
+If the role speaks to you and you’re excited to give your best, we’d love to hear from you. Apply now—we can’t wait to meet you.
+================================================================================
+
+================================================================================
+A JOB #17: Associate Business Consultant - Life Sciences Analytics
+================================================================================
+Job ID:      4442617102
+Company:     Veeva Systems
+Location:    Barcelona, Catalonia, Spain
+Date Posted: 2 weeks ago
+URL:         https://www.linkedin.com/jobs/view/4442617102/
+
+DESCRIPTION:
+--------------------------------------------------------------------------------
+Veeva is building the industry cloud for Life Sciences through software, data, AI, and business consulting working together. Learn more about our products, vision, values, and status as a Public Benefit Corporation (PBC) on our website.
+Consulting is changing, and we’re not like other firms. Launched in 2019, Veeva Business Consulting has grown quickly and organically to over 500 global experts who combine deep domain knowledge with innovative technology to help Life Sciences companies work in a more efficient and connected way.
+We are growing aggressively as we look towards 2030. We are seeking great people to help shape the future of the industry with the world’s leading software, data, AI, and expertise at their back.
+The Role
+We are hiring recent university graduates to grow the next generation of consultants through our Business Consultant Development Program.
+We believe in pushing high potential people to achieve excellence. Our program is specifically designed to provide a challenging environment to learn quickly and deliver value early. You will collaborate with experienced team members on customer-facing engagements to create high-impact business solutions.
+In our structured 20 month program, we equip you with the resources to develop the core consulting skills, deep domain expertise, and leadership foundation for long-term career success at Veeva.
+Our Business Consulting team builds effective business and operational improvement strategies powered by Veeva’s unique industry insights, and market-leading technology. Our offerings are focused on speeding drug development, launching treatments more effectively, and shaping the best engagement for our customers.
+The anticipated start date is
+October 2027.
+Explore More Generation Veeva Roles
+We welcome you to apply to all roles that align with your skills and interests. See all open opportunities here: Generation Veeva Careers
+What You'll Do
+Support and deliver all components of customer engagements (e.g., customer communications, workshops, stakeholder interviews, data analysis, managing timelines)
+Leverage data and analytics to deliver insights and business solutions, powered by Veeva’s Data Cloud
+Collaborate with Business Consultants to create deliverables that optimize customer operating and engagement models, process, and analytics
+REQUIREMENTS | We are looking for graduates who meet the following requirements:
+Desire to work within an intense, challenging program and environment
+An analytical type of person who loves digging into numbers and other data to find insights
+Bachelor's degree with strong academic performance
+Upcoming university graduate
+Fluent in written and spoken English
+Basic understanding of SQL, Python, or a comparable coding language
+High work ethic. Veeva is a hard-working company
+High integrity and honesty. Veeva is a PBC and a “do the right thing” company and we expect that from all employees
+Excellent verbal and written communication skills
+Willingness to travel up to 20% of your time per year. Travel varies per customer engagement, coworking, internal meetings and events with your team
+THE PROCESS | Our process is different than most. It is designed to be fast, efficient and respectful. Here are the steps:
+Application: You submit your resume, short cover letter of questions, and take a personality test. Within one week we will notify you via email if we would like to move you to the next stage.
+Leader Interview: The next step is a 45-minute interview with a leader of the practice.
+Case Exercise: If we proceed, you will be invited to complete a case exercise within a week.
+Offer : Within one week after completing your case exercise, we will extend you an offer or let you know that we do not wish to move forward. You will have two weeks to make your final decision. If you accept, we will hold a spot for you and expect you to show up on your start date. Accepting an offer and continuing to interview would be an ethical violation in our view
+Compensation
+Starting Salary: 38,000 EUR
+After one year, if you perform well, you will receive a significant salary increase and be granted equity
+Work Authorization:
+Qualified candidates should be legally authorized to be employed in the EU.
+Work Environment:
+Veeva is a Work Anywhere company. You can choose to work in an office or remotely from home on any given day of the week - it’s up to you! Although Veeva is Work from Anywhere, Associate Business Consultants must live within a maximum commuting distance of 45 minutes to 1 hour from Veeva’s Barcelona office.
+Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances. If you need assistance or accommodation due to a disability or special need when applying for a role or in our recruitment process, please contact us at talent_accommodations@veeva.com.
+================================================================================
+
