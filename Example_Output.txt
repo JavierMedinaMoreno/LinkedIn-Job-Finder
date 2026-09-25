@@ -61,7 +61,7 @@ Want to learn more about us? Check our website!
 ================================================================================
 
 ================================================================================
-A JOB #2: Apprentice Data Scientist Finance
+JOB #2: Apprentice Data Scientist Finance
 ================================================================================
 Job ID:      4448446368
 Company:     dsm-firmenich
@@ -111,7 +111,7 @@ We’re managing this search directly at dsm-firmenich. If you’re applying as 
 ================================================================================
 
 ================================================================================
-A JOB #3: Business Analyst Área Comercial
+JOB #3: Business Analyst Área Comercial
 ================================================================================
 Job ID:      4467714034
 Company:     Penguin Random House Grupo Editorial
@@ -169,7 +169,7 @@ Descuentos en productos de la compañía.
 ================================================================================
 
 ================================================================================
-A JOB #4: Pricing Analyst
+JOB #4: Pricing Analyst
 ================================================================================
 Job ID:      4438314968
 Company:     Sompo
@@ -223,7 +223,7 @@ Valoramos positivamente las solicitudes de personas con certificado de discapaci
 ================================================================================
 
 ================================================================================
-A JOB #5: Junior FP&A Analyst
+JOB #5: Junior FP&A Analyst
 ================================================================================
 Job ID:      4463050214
 Company:     Applus+
@@ -275,7 +275,7 @@ Cantina con precio reducido
 ================================================================================
 
 ================================================================================
-A JOB #6: Prime Associate Business Analyst
+JOB #6: Prime Associate Business Analyst
 ================================================================================
 Job ID:      4461952450
 Company:     eDreams ODIGEO
@@ -330,7 +330,7 @@ We are an equal opportunity employer and value diversity at our company. We do n
 ================================================================================
 
 ================================================================================
-A JOB #7: Data Analytics (Customer Experience)
+JOB #7: Data Analytics (Customer Experience)
 ================================================================================
 Job ID:      4466250826
 Company:     Massimo Dutti
@@ -361,7 +361,7 @@ Actitud proactiva, curiosidad y ganas de aprender y desarrollarse profesionalmen
 ================================================================================
 
 ================================================================================
-A JOB #8: LOAN DATA & OPERATIONS ANALYST
+JOB #8: LOAN DATA & OPERATIONS ANALYST
 ================================================================================
 Job ID:      4466880143
 Company:     CaixaBank
@@ -405,7 +405,7 @@ Si te interesa la oferta, no dudes en aplicar a la oferta en el siguiente enlace
 ================================================================================
 
 ================================================================================
-A JOB #9: Junior Data Analyst - Automation & Reporting
+JOB #9: Junior Data Analyst - Automation & Reporting
 ================================================================================
 Job ID:      4461660441
 Company:     InPost España
@@ -457,7 +457,7 @@ InPost has an Equal Opportunities Plan that promotes equality at all levels. We 
 ================================================================================
 
 ================================================================================
-A JOB #10: Strategy & Execution Analyst (Energy & Utilities)
+JOB #10: Strategy & Execution Analyst (Energy & Utilities)
 ================================================================================
 Job ID:      4424571530
 Company:     Metyis
@@ -497,7 +497,7 @@ At Metyis, we are driven by curiosity and collaboration. We value diversity, equ
 ================================================================================
 
 ================================================================================
-A JOB #11: Gestor/a Administración fondos / Data analytics
+JOB #11: Gestor/a Administración fondos / Data analytics
 ================================================================================
 Job ID:      4457479835
 Company:     VidaCaixa
@@ -544,7 +544,7 @@ Entrevista personal con HRBP.
 ================================================================================
 
 ================================================================================
-A JOB #12: Consultoría | NJFY27 Junior Artificial Intelligence & Analytics | Septiembre 2026
+JOB #12: Consultoría | NJFY27 Junior Artificial Intelligence & Analytics | Septiembre 2026
 ================================================================================
 Job ID:      4315430606
 Company:     PwC España
@@ -692,7 +692,7 @@ esta puede ser tu oportunidad
 ================================================================================
 
 ================================================================================
-X JOB #14: Auditor Junior
+JOB #14: Auditor Junior
 ================================================================================
 Job ID:      4466290507
 Company:     Empresa Confidencial
@@ -722,7 +722,7 @@ Si buscas una oportunidad para desarrollar una visión estratégica del negocio 
 ================================================================================
 
 ================================================================================
-A JOB #15: Entry-Level Strategy & Operations Consultant – Life Sciences Sector
+JOB #15: Entry-Level Strategy & Operations Consultant – Life Sciences Sector
 ================================================================================
 Job ID:      4461724521
 Company:     BIP Spain
@@ -771,7 +771,7 @@ dpo-bipspain@bip-group.com
 ================================================================================
 
 ================================================================================
-X JOB #16: Graduate data scientist
+JOB #16: Graduate data scientist
 ================================================================================
 Job ID:      4467891631
 Company:     Bending Spoons
@@ -831,7 +831,7 @@ If the role speaks to you and you’re excited to give your best, we’d love to
 ================================================================================
 
 ================================================================================
-A JOB #17: Associate Business Consultant - Life Sciences Analytics
+JOB #17: Associate Business Consultant - Life Sciences Analytics
 ================================================================================
 Job ID:      4442617102
 Company:     Veeva Systems
