@@ -1,0 +1,1 @@
+Data acquisition pipeline that streamlines job hunting via LinkedIn without login. It manages the complete search cycle: discovery with keywords, detail extraction, and filtering with AI. High-priority opportunities are assembled into a clean and organized application dossier.
