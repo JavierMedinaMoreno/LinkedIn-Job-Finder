@@ -16,8 +16,9 @@ import requests
 # ==============================================================================
 # USER INPUT FIELDS
 # ==============================================================================
-KEYWORD = '(Economics OR ADE OR Economía OR Business) AND ("Power BI" OR SQL OR Python OR forecasting OR pricing OR "market analysis" OR "financial analysis" OR dashboard OR reporting)'
-LOCATION = 'Barcelona, Catalonia, Spain'
+KEYWORD = '(Economics OR ADE OR Economía OR Business OR Finance OR Finanzas OR Management) AND ("Power BI" OR SQL OR Python OR forecasting OR pricing OR analysis OR análisis OR accounting OR contabilidad OR reporting OR report OR reportar OR informes)'
+LOCATION = 'Terrassa, Catalonia, Spain'
+DISTANCE = '25' #Radius in miles. '' (exact match), '10', '25', '50', '100' miles away from location. No custom values allowed.
 
 # Search Filters (leave empty '' to disable):
 TIME_FILTER = 'r604800'            # f_TPR: '' (anytime), 'r86400' (past 24h), 'r604800' (past week), 'r2592000' (past month)
@@ -36,6 +37,7 @@ DETAILS_OUTPUT_FILENAME = 'linkedin_job_details.txt'  # Destination text file fo
 def scrape_linkedin_jobs(
     keyword: str,
     location: str,
+    distance: str = '',
     total_pages: int = None,
     time_filter: str = '',
     experience_level: str = '',
@@ -99,6 +101,8 @@ def scrape_linkedin_jobs(
       f"Starting search: '{keyword}' in '{location}' ({limit_desc})..."
   )
   active_filters = []
+  if distance:
+    active_filters.append(f'distance={distance}')
   if time_filter:
     active_filters.append(f'time={time_filter}')
   if experience_level:
@@ -117,6 +121,8 @@ def scrape_linkedin_jobs(
     for page in range(effective_limit):
       offset = page * page_size
       params = {'keywords': keyword, 'location': location, 'start': offset}
+      if distance:
+        params['distance'] = str(distance)
       if time_filter:
         params['f_TPR'] = time_filter
       if experience_level:
@@ -275,6 +281,7 @@ if __name__ == '__main__':
   scrape_linkedin_jobs(
       keyword=KEYWORD,
       location=LOCATION,
+      distance=DISTANCE,
       total_pages=MAX_PAGES,
       time_filter=TIME_FILTER,
       experience_level=EXPERIENCE_LEVEL,

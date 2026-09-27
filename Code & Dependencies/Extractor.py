@@ -210,9 +210,23 @@ def parse_linkedin_job_url(job_url: str, session: requests.Session = None):
             if 'show more' in text or 'show less' in text or 'show-more-less' in classes:
                 btn.decompose()
 
-        description = desc_tag.get_text(separator='\n', strip=True)
+        # Replace <br> tags with explicit newlines
+        for br in desc_tag.find_all('br'):
+            br.replace_with('\n')
+
+        # Append newlines to block-level elements so inline tags (<strong>, <em>, etc.) stay inline
+        for tag in desc_tag.find_all(['p', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'tr']):
+            tag.append('\n')
+
+        raw_desc = desc_tag.get_text()
+
+        # Normalize spaces and line breaks
+        raw_desc = re.sub(r'[ \t]+', ' ', raw_desc)
+        raw_desc = re.sub(r' *\n *', '\n', raw_desc)
+        raw_desc = re.sub(r'\n{3,}', '\n\n', raw_desc)
+
         # Remove any trailing "Show more" / "Show less" text leftover
-        description = re.sub(r'(?i)(\n\s*show\s+(?:more|less)\s*)+$', '', description).strip()
+        description = re.sub(r'(?i)(\n\s*show\s+(?:more|less)\s*)+$', '', raw_desc).strip()
     else:
         description = 'N/A'
 

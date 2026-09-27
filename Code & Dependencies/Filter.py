@@ -14,6 +14,36 @@ import re
 # IDs can be separated by newlines, spaces, or commas.
 # ==============================================================================
 INTERESTING_JOB_IDS = """
+4427557481
+4468909447
+4434115036
+4461952450
+4472054618
+4470974324
+4469474859
+4468769329
+4468910382
+4459266505
+4442617102
+4460998798
+4469421267
+4468152040
+4468980307
+4432637181
+4461996996
+"""
+
+# Paste Job IDs to exclude/remove below (takes precedence over INTERESTING_JOB_IDS).
+EXCLUDED_JOB_IDS = """
+4427557481
+4448446368
+4467714034
+4468769329
+4442617102
+4467891631
+4468909447
+4434115036
+4461952450
 """
 
 # ==============================================================================
@@ -61,6 +91,67 @@ def parse_source_job_blocks(source_filename: str) -> dict:
     return jobs_by_id
 
 
+def parse_job_blocks_ordered(filename: str) -> list:
+    """Parses a job details text file into an ordered list of (job_id, raw_job_block) tuples."""
+    if not os.path.exists(filename):
+        return []
+
+    with open(filename, mode='r', encoding='utf-8') as f:
+        content = f.read()
+
+    pattern = re.compile(
+        r'(={80}\r?\nJOB #\d+: [^\n]+\r?\n={80}\r?\nJob ID:\s*(\d+)\r?\n.+?)(?=\n={80}\r?\nJOB #|\Z)',
+        re.DOTALL,
+    )
+
+    blocks = []
+    for match in pattern.finditer(content):
+        job_block = match.group(1).strip()
+        job_id = match.group(2)
+        blocks.append((job_id, job_block))
+
+    return blocks
+
+
+def prune_excluded_jobs(output_filename: str, excluded_ids: set) -> tuple:
+    """Removes excluded job IDs from the output file, renumbers remaining jobs, and rewrites the file.
+    Returns (current_count, existing_ids).
+    """
+    if not os.path.exists(output_filename) or not excluded_ids:
+        existing_ids, current_count = get_existing_saved_job_ids(output_filename)
+        return current_count, existing_ids
+
+    existing_blocks = parse_job_blocks_ordered(output_filename)
+    if not existing_blocks:
+        return 0, set()
+
+    retained_blocks = []
+    deleted_ids = []
+
+    for jid, blk in existing_blocks:
+        if jid in excluded_ids:
+            deleted_ids.append(jid)
+        else:
+            retained_blocks.append((jid, blk))
+
+    if deleted_ids:
+        renumbered_blocks = []
+        for idx, (jid, blk) in enumerate(retained_blocks, start=1):
+            new_blk = re.sub(r'JOB #\d+:', f'JOB #{idx}:', blk, count=1)
+            renumbered_blocks.append(new_blk)
+
+        with open(output_filename, mode='w', encoding='utf-8') as f:
+            if renumbered_blocks:
+                f.write('\n\n'.join(renumbered_blocks) + '\n\n')
+            f.flush()
+
+        print(f"[-] Removed {len(deleted_ids)} excluded job(s) from '{output_filename}': {', '.join(deleted_ids)}")
+
+    current_count = len(retained_blocks)
+    existing_ids = {jid for jid, _ in retained_blocks}
+    return current_count, existing_ids
+
+
 def get_existing_saved_job_ids(destination_filename: str) -> tuple:
     """Reads already saved job IDs and total job count from the destination file."""
     saved_ids = set()
@@ -83,13 +174,35 @@ def get_existing_saved_job_ids(destination_filename: str) -> tuple:
 
 def filter_interesting_jobs(
     interesting_ids_input,
+    excluded_ids_input=None,
     input_filename: str = 'linkedin_job_details.txt',
     output_filename: str = 'interesting_jobs.txt',
 ):
-    """Extracts interesting jobs from input_filename and appends them to output_filename."""
-    target_ids = extract_target_ids(interesting_ids_input)
+    """Extracts interesting jobs from input_filename, excludes/removes specified IDs, and updates output_filename."""
+    raw_target_ids = extract_target_ids(interesting_ids_input)
+    excluded_ids = set(extract_target_ids(excluded_ids_input)) if excluded_ids_input else set()
+
+    # Check collision between interesting and excluded
+    if raw_target_ids and excluded_ids:
+        conflicts = [jid for jid in raw_target_ids if jid in excluded_ids]
+        if conflicts:
+            print(f"\n[WARNING] The following Job ID(s) appear in both INTERESTING_JOB_IDS and EXCLUDED_JOB_IDS and will be excluded: {', '.join(conflicts)}\n")
+
+    # Filter out excluded IDs from target IDs
+    target_ids = [jid for jid in raw_target_ids if jid not in excluded_ids]
+
+    if not raw_target_ids and not excluded_ids:
+        print('No valid Job IDs provided in INTERESTING_JOB_IDS or EXCLUDED_JOB_IDS.')
+        return
+
+    # Prune any excluded jobs that might already be in output_filename
+    current_count, existing_ids = prune_excluded_jobs(output_filename, excluded_ids)
+
     if not target_ids:
-        print('No valid Job IDs provided in INTERESTING_JOB_IDS.')
+        if not raw_target_ids and excluded_ids:
+            print(f"Pruned excluded jobs. Output file '{output_filename}' now contains {current_count} jobs.")
+        else:
+            print('No remaining target Job IDs to add after exclusions.')
         return
 
     print(f"Checking {len(target_ids)} target Job IDs against '{input_filename}'...")
@@ -98,9 +211,8 @@ def filter_interesting_jobs(
         print(f"No job blocks found in '{input_filename}'.")
         return
 
-    existing_ids, current_count = get_existing_saved_job_ids(output_filename)
     if existing_ids:
-        print(f"Destination '{output_filename}' already contains {len(existing_ids)} jobs.")
+        print(f"Destination '{output_filename}' currently contains {len(existing_ids)} jobs.")
 
     newly_appended = 0
     already_saved = 0
@@ -132,7 +244,9 @@ def filter_interesting_jobs(
             print(f"  [+] Appended JOB #{current_count} (Job ID: {jid})")
 
     print('\n--- Summary ---')
-    print(f'Total target IDs requested:  {len(target_ids)}')
+    print(f'Total target IDs requested:  {len(raw_target_ids)}')
+    if excluded_ids:
+        print(f'Excluded IDs specified:      {len(excluded_ids)}')
     print(f'Newly appended to output:    {newly_appended}')
     if already_saved:
         print(f'Already in destination file: {already_saved}')
@@ -144,6 +258,7 @@ def filter_interesting_jobs(
 if __name__ == '__main__':
     filter_interesting_jobs(
         interesting_ids_input=INTERESTING_JOB_IDS,
+        excluded_ids_input=EXCLUDED_JOB_IDS,
         input_filename=INPUT_FILENAME,
         output_filename=OUTPUT_FILENAME,
     )
