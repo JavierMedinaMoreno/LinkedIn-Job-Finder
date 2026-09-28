@@ -14,23 +14,17 @@ import re
 # IDs can be separated by newlines, spaces, or commas.
 # ==============================================================================
 INTERESTING_JOB_IDS = """
-4427557481
-4468909447
-4434115036
-4461952450
 4472054618
-4470974324
-4469474859
-4468769329
-4468910382
-4459266505
-4442617102
-4460998798
 4469421267
-4468152040
-4468980307
-4432637181
-4461996996
+4470164371
+4471885496
+4468198561
+4472299370
+4470446094
+4467391346
+4463397226
+4470145054
+4470689662
 """
 
 # Paste Job IDs to exclude/remove below (takes precedence over INTERESTING_JOB_IDS).
@@ -44,6 +38,28 @@ EXCLUDED_JOB_IDS = """
 4468909447
 4434115036
 4461952450
+4470974324
+4469474859
+4468910382
+4459266505
+4460998798
+4468152040
+4468980307
+4432637181
+4461996996
+4469924295
+4467628263
+4462898076
+4453094820
+4471143668
+4470501438
+4470464816
+4450813447
+4472006005
+4461689758
+4462235198
+4434774578
+4463376843
 """
 
 # ==============================================================================
@@ -172,6 +188,53 @@ def get_existing_saved_job_ids(destination_filename: str) -> tuple:
     return saved_ids, total_count
 
 
+def prune_conflicts_from_source(source_py_path: str, conflict_ids: set) -> list:
+    """Removes conflicting job IDs from the INTERESTING_JOB_IDS block in the source script itself."""
+    if not source_py_path or not os.path.exists(source_py_path) or not conflict_ids:
+        return []
+
+    try:
+        with open(source_py_path, mode='r', encoding='utf-8') as f:
+            code = f.read()
+
+        # Match INTERESTING_JOB_IDS = """...""" or '''...'''
+        pattern = re.compile(
+            r'(INTERESTING_JOB_IDS\s*=\s*(?:"""|\'\'\'))([\s\S]*?)((?:"""|\'\'\'))',
+            re.MULTILINE,
+        )
+        match = pattern.search(code)
+        if not match:
+            return []
+
+        prefix, body, suffix = match.group(1), match.group(2), match.group(3)
+
+        removed = []
+        new_body_lines = []
+        for line in body.splitlines(keepends=True):
+            line_ids = re.findall(r'\b\d{8,}\b', line)
+            if line_ids and any(jid in conflict_ids for jid in line_ids):
+                for jid in line_ids:
+                    if jid in conflict_ids and jid not in removed:
+                        removed.append(jid)
+            else:
+                new_body_lines.append(line)
+
+        if not removed:
+            return []
+
+        new_block = prefix + ''.join(new_body_lines) + suffix
+        new_code = code[: match.start()] + new_block + code[match.end() :]
+
+        with open(source_py_path, mode='w', encoding='utf-8') as f:
+            f.write(new_code)
+            f.flush()
+
+        return removed
+    except Exception as e:
+        print(f"[Auto-Clean Warning] Could not update source script: {e}")
+        return []
+
+
 def filter_interesting_jobs(
     interesting_ids_input,
     excluded_ids_input=None,
@@ -186,7 +249,14 @@ def filter_interesting_jobs(
     if raw_target_ids and excluded_ids:
         conflicts = [jid for jid in raw_target_ids if jid in excluded_ids]
         if conflicts:
-            print(f"\n[WARNING] The following Job ID(s) appear in both INTERESTING_JOB_IDS and EXCLUDED_JOB_IDS and will be excluded: {', '.join(conflicts)}\n")
+            print(f"\n[WARNING] The following Job ID(s) appear in both INTERESTING_JOB_IDS and EXCLUDED_JOB_IDS and will be excluded: {', '.join(conflicts)}")
+            # Automatically prune conflicting IDs from INTERESTING_JOB_IDS in Filter.py source code
+            source_script = os.path.abspath(__file__)
+            removed_from_src = prune_conflicts_from_source(source_script, set(conflicts))
+            if removed_from_src:
+                print(f"[Auto-Clean] Pruned {len(removed_from_src)} conflicting Job ID(s) from INTERESTING_JOB_IDS in '{os.path.basename(source_script)}': {', '.join(removed_from_src)}\n")
+            else:
+                print()
 
     # Filter out excluded IDs from target IDs
     target_ids = [jid for jid in raw_target_ids if jid not in excluded_ids]

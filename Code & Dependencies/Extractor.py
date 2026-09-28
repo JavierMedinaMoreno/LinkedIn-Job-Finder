@@ -15,8 +15,41 @@ import requests
 # ==============================================================================
 # USER INPUT FIELDS
 # ==============================================================================
+
+# Titles containing any of these words/phrases will be skipped when loading from CSV.
+# Leave empty to extract all jobs from CSV. Case-insensitive, matched as whole words/phrases.
+BANNED_TITLE_WORDS = """
+senior
+sr
+sénior
+lead
+head
+director
+directora
+principal
+staff
+vp
+vice president
+cfo
+cco
+gerente
+jefe
+jefa
+socio
+partner
+responsable
+supervisor
+supervisora
+chief
+officer
+support
+gestor
+gestora
+"""
+
 # Optional: Extract from URLs
-# Paste LinkedIn job URLs or standalone numeric Job IDs below (as a multiline string or list):
+# Paste LinkedIn job URLs or standalone numeric Job IDs below (as a multiline string or list).
+# Note: Manually pasted targets always bypass the banned title words filter.
 TARGET_URLS = """
 """
 
@@ -24,6 +57,27 @@ TARGET_URLS = """
 INPUT_CSV = 'linkedin_jobs.csv'        # CSV exported by Finder.py (set to '' to ignore)
 OUTPUT_FILENAME = 'linkedin_job_details.txt'  # Destination text file path
 # ==============================================================================
+
+
+def compile_banned_title_regex(words_input):
+    """Compiles a multiline string or iterable of banned title words into a case-insensitive regex."""
+    if not words_input:
+        return None
+
+    if isinstance(words_input, str):
+        raw_words = [line.strip() for line in words_input.splitlines() if line.strip() and not line.strip().startswith('#')]
+    elif isinstance(words_input, (list, tuple, set)):
+        raw_words = [str(w).strip() for w in words_input if str(w).strip()]
+    else:
+        return None
+
+    if not raw_words:
+        return None
+
+    # Escape each term for regex safety and wrap with word boundaries
+    escaped = [re.escape(w) for w in raw_words]
+    pattern = r'\b(?:' + '|'.join(escaped) + r')\b'
+    return re.compile(pattern, re.IGNORECASE)
 
 
 def extract_urls(urls_input) -> list:
@@ -37,35 +91,55 @@ def extract_urls(urls_input) -> list:
     return []
 
 
-def load_target_urls(csv_file: str = '', raw_input: str = '') -> list:
-    """Loads and deduplicates URLs from an input CSV file and/or raw input string."""
+def load_target_urls(csv_file: str = '', raw_input: str = '', banned_title_words = None) -> list:
+    """Loads and deduplicates URLs from an input CSV file and/or raw input string.
+    CSV rows matching banned_title_words are skipped. Raw input URLs bypass title filtering.
+    """
+    if banned_title_words is None:
+        banned_title_words = BANNED_TITLE_WORDS
+
     urls = []
     seen = set()
+    banned_regex = compile_banned_title_regex(banned_title_words)
+    skipped_by_title = 0
 
-    # 1. Load from CSV if provided and exists
+    # 1. Load from CSV if provided and exists (filtered by banned_title_words)
     if csv_file:
         try:
             with open(csv_file, mode='r', encoding='utf-8') as f:
                 reader = csv.DictReader(f)
                 for row in reader:
+                    title = (row.get('title') or '').strip()
+                    if banned_regex and title and banned_regex.search(title):
+                        skipped_by_title += 1
+                        continue
+
                     raw_val = (row.get('url') or '').strip() or (row.get('job_id') or '').strip()
                     url = normalize_job_url(raw_val)
                     if url and url not in seen:
                         seen.add(url)
                         urls.append(url)
-            if urls:
-                print(f"Loaded {len(urls)} URLs from '{csv_file}'.")
+            if urls or skipped_by_title:
+                msg = f"Loaded {len(urls)} URLs from '{csv_file}'."
+                if skipped_by_title:
+                    msg += f" (Skipped {skipped_by_title} matching BANNED_TITLE_WORDS)"
+                print(msg)
         except FileNotFoundError:
             pass
         except Exception as e:
             print(f"Warning reading '{csv_file}': {e}")
 
-    # 2. Add raw URLs if provided
+    # 2. Add raw URLs if provided (Always bypasses title filter)
     if raw_input:
-        for u in extract_urls(raw_input):
+        raw_urls = extract_urls(raw_input)
+        added_raw = 0
+        for u in raw_urls:
             if u not in seen:
                 seen.add(u)
                 urls.append(u)
+                added_raw += 1
+        if added_raw:
+            print(f"Loaded {added_raw} target URLs from manual input (bypassing title filter).")
 
     return urls
 

@@ -16,7 +16,7 @@ import requests
 # ==============================================================================
 # USER INPUT FIELDS
 # ==============================================================================
-KEYWORD = '(Economics OR ADE OR Economía OR Business OR Finance OR Finanzas OR Management) AND ("Power BI" OR SQL OR Python OR forecasting OR pricing OR analysis OR análisis OR accounting OR contabilidad OR reporting OR report OR reportar OR informes)'
+KEYWORD = '(Junior OR Jr OR Graduate OR Trainee OR Assistant OR Asistente OR Intern OR Internship OR Prácticas) AND (Economics OR ADE OR Economía OR Business OR Finance OR Finanzas OR Management) AND ("Power BI" OR SQL OR Python OR forecasting OR pricing OR analysis OR análisis OR accounting OR contabilidad OR reporting OR report OR reportar OR informes)'
 LOCATION = 'Terrassa, Catalonia, Spain'
 DISTANCE = '25' #Radius in miles. '' (exact match), '10', '25', '50', '100' miles away from location. No custom values allowed.
 
